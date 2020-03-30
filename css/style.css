@@ -1,0 +1,23 @@
+h3 {
+    font-size: 20px;
+    font-style: bold;
+    font-family: arial;
+}
+
+h4 {
+    font-style: italic;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;   
+}
+
+.text-part {
+    flex-wrap: wrap;
+    height: 180px;
+    width:200px;
+}
